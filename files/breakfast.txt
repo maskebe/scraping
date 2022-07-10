@@ -1,0 +1,720 @@
+[
+    {
+        "word": "petit dejeuner",
+        "score": 88369,
+        "tags": [
+            "syn",
+            "n"
+        ]
+    },
+    {
+        "word": "brunch",
+        "score": 74187,
+        "tags": [
+            "n"
+        ]
+    },
+    {
+        "word": "dinner",
+        "score": 73961,
+        "tags": [
+            "n"
+        ]
+    },
+    {
+        "word": "lunch",
+        "score": 73355,
+        "tags": [
+            "n"
+        ]
+    },
+    {
+        "word": "meal",
+        "score": 72603,
+        "tags": [
+            "n"
+        ]
+    },
+    {
+        "word": "luncheon",
+        "score": 70457,
+        "tags": [
+            "n"
+        ]
+    },
+    {
+        "word": "lunches",
+        "score": 68465,
+        "tags": [
+            "n"
+        ]
+    },
+    {
+        "word": "lunchtime",
+        "score": 68122,
+        "tags": [
+            "n"
+        ]
+    },
+    {
+        "word": "oatmeal",
+        "score": 66951,
+        "tags": [
+            "n"
+        ]
+    },
+    {
+        "word": "coffee",
+        "score": 66172,
+        "tags": [
+            "n"
+        ]
+    },
+    {
+        "word": "eat",
+        "score": 65428,
+        "tags": [
+            "v",
+            "adj"
+        ]
+    },
+    {
+        "word": "soup",
+        "score": 65102,
+        "tags": [
+            "n"
+        ]
+    },
+    {
+        "word": "eating",
+        "score": 64355,
+        "tags": [
+            "n",
+            "v"
+        ]
+    },
+    {
+        "word": "morning",
+        "score": 64145,
+        "tags": [
+            "n",
+            "v"
+        ]
+    },
+    {
+        "word": "lunchbox",
+        "score": 59588,
+        "tags": [
+            "n"
+        ]
+    },
+    {
+        "word": "host",
+        "score": 57724,
+        "tags": [
+            "n"
+        ]
+    },
+    {
+        "word": "baby",
+        "score": 55863,
+        "tags": [
+            "n"
+        ]
+    },
+    {
+        "word": "diamonds",
+        "score": 51584,
+        "tags": [
+            "n"
+        ]
+    },
+    {
+        "word": "continental breakfast",
+        "score": 50891,
+        "tags": [
+            "n",
+            "prop"
+        ]
+    },
+    {
+        "word": "supper",
+        "score": 50890,
+        "tags": [
+            "n"
+        ]
+    },
+    {
+        "word": "buffet",
+        "score": 50889,
+        "tags": [
+            "n",
+            "adj",
+            "v"
+        ]
+    },
+    {
+        "word": "dutch treat",
+        "score": 50888,
+        "tags": [
+            "n"
+        ]
+    },
+    {
+        "word": "snack",
+        "score": 50886,
+        "tags": [
+            "n"
+        ]
+    },
+    {
+        "word": "dessert",
+        "score": 50884,
+        "tags": [
+            "n"
+        ]
+    },
+    {
+        "word": "repast",
+        "score": 50883,
+        "tags": [
+            "n"
+        ]
+    },
+    {
+        "word": "banquet",
+        "score": 50882,
+        "tags": [
+            "n"
+        ]
+    },
+    {
+        "word": "diner",
+        "score": 50881,
+        "tags": [
+            "n"
+        ]
+    },
+    {
+        "word": "croissant",
+        "score": 50880,
+        "tags": [
+            "n"
+        ]
+    },
+    {
+        "word": "pizza",
+        "score": 50879,
+        "tags": [
+            "n"
+        ]
+    },
+    {
+        "word": "cafeteria",
+        "score": 50878,
+        "tags": [
+            "n"
+        ]
+    },
+    {
+        "word": "porridge",
+        "score": 50876,
+        "tags": [
+            "n"
+        ]
+    },
+    {
+        "word": "jentacular",
+        "score": 50875,
+        "tags": [
+            "n"
+        ]
+    },
+    {
+        "word": "scrambled eggs",
+        "score": 50874,
+        "tags": [
+            "n"
+        ]
+    },
+    {
+        "word": "potluck dinner",
+        "score": 50873,
+        "tags": [
+            "n"
+        ]
+    },
+    {
+        "word": "pancakes",
+        "score": 50872,
+        "tags": [
+            "n"
+        ]
+    },
+    {
+        "word": "sandwiches",
+        "score": 50871,
+        "tags": [
+            "n"
+        ]
+    },
+    {
+        "word": "roast beef",
+        "score": 50870,
+        "tags": [
+            "n"
+        ]
+    },
+    {
+        "word": "quiche",
+        "score": 50869,
+        "tags": [
+            "n"
+        ]
+    },
+    {
+        "word": "swiss steak",
+        "score": 50868,
+        "tags": [
+            "n",
+            "prop"
+        ]
+    },
+    {
+        "word": "fish fry",
+        "score": 50867,
+        "tags": [
+            "n"
+        ]
+    },
+    {
+        "word": "salisbury steak",
+        "score": 50866,
+        "tags": [
+            "n",
+            "prop"
+        ]
+    },
+    {
+        "word": "eggs benedict",
+        "score": 50865,
+        "tags": [
+            "n",
+            "prop"
+        ]
+    },
+    {
+        "word": "omelettes",
+        "score": 50864,
+        "tags": [
+            "n"
+        ]
+    },
+    {
+        "word": "omelets",
+        "score": 50863,
+        "tags": [
+            "n"
+        ]
+    },
+    {
+        "word": "barbecue",
+        "score": 50862,
+        "tags": [
+            "n"
+        ]
+    },
+    {
+        "word": "flapjacks",
+        "score": 50861,
+        "tags": [
+            "n"
+        ]
+    },
+    {
+        "word": "bed tea",
+        "score": 50860,
+        "tags": [
+            "n"
+        ]
+    },
+    {
+        "word": "bed and board",
+        "score": 50859,
+        "tags": [
+            "n"
+        ]
+    },
+    {
+        "word": "cinnamon toast",
+        "score": 50857,
+        "tags": [
+            "n"
+        ]
+    },
+    {
+        "word": "barbeque",
+        "score": 50856,
+        "tags": [
+            "n"
+        ]
+    },
+    {
+        "word": "buffett",
+        "score": 50855,
+        "tags": [
+            "n",
+            "prop"
+        ]
+    },
+    {
+        "word": "fish chowder",
+        "score": 50854,
+        "tags": [
+            "n"
+        ]
+    },
+    {
+        "word": "chicken casserole",
+        "score": 50853,
+        "tags": [
+            "n"
+        ]
+    },
+    {
+        "word": "cordon bleu",
+        "score": 50852,
+        "tags": [
+            "n"
+        ]
+    },
+    {
+        "word": "chicken kiev",
+        "score": 50851,
+        "tags": [
+            "n",
+            "prop"
+        ]
+    },
+    {
+        "word": "donuts",
+        "score": 50850,
+        "tags": [
+            "n"
+        ]
+    },
+    {
+        "word": "hamburgers",
+        "score": 50849,
+        "tags": [
+            "n"
+        ]
+    },
+    {
+        "word": "cenatory",
+        "score": 50848,
+        "tags": [
+            "n"
+        ]
+    },
+    {
+        "word": "hash browns",
+        "score": 50847,
+        "tags": [
+            "n"
+        ]
+    },
+    {
+        "word": "baked potato",
+        "score": 50846,
+        "tags": [
+            "n"
+        ]
+    },
+    {
+        "word": "dropmeal",
+        "score": 50845,
+        "tags": [
+            "n"
+        ]
+    },
+    {
+        "word": "potluck",
+        "score": 50844,
+        "tags": [
+            "n"
+        ]
+    },
+    {
+        "word": "picnic",
+        "score": 50843,
+        "tags": [
+            "n"
+        ]
+    },
+    {
+        "word": "muffins",
+        "score": 50842,
+        "tags": [
+            "n"
+        ]
+    },
+    {
+        "word": "bagels",
+        "score": 50841,
+        "tags": [
+            "n"
+        ]
+    },
+    {
+        "word": "tamale pie",
+        "score": 50840,
+        "tags": [
+            "n"
+        ]
+    },
+    {
+        "word": "wiener roast",
+        "score": 50839,
+        "tags": [
+            "n",
+            "prop"
+        ]
+    },
+    {
+        "word": "ihop",
+        "score": 50838,
+        "tags": [
+            "n",
+            "prop"
+        ]
+    },
+    {
+        "word": "cheeseburger",
+        "score": 50837,
+        "tags": [
+            "n"
+        ]
+    },
+    {
+        "word": "pastries",
+        "score": 50836,
+        "tags": [
+            "n"
+        ]
+    },
+    {
+        "word": "french toast",
+        "score": 50835,
+        "tags": [
+            "n",
+            "prop"
+        ]
+    },
+    {
+        "word": "cookout",
+        "score": 50834,
+        "tags": [
+            "n"
+        ]
+    },
+    {
+        "word": "lobster thermidor",
+        "score": 50833,
+        "tags": [
+            "n",
+            "prop"
+        ]
+    },
+    {
+        "word": "quiche lorraine",
+        "score": 50832,
+        "tags": [
+            "n",
+            "prop"
+        ]
+    },
+    {
+        "word": "burger",
+        "score": 50831,
+        "tags": [
+            "n"
+        ]
+    },
+    {
+        "word": "waffles",
+        "score": 50830,
+        "tags": [
+            "n"
+        ]
+    },
+    {
+        "word": "beef stew",
+        "score": 50829,
+        "tags": [
+            "n"
+        ]
+    },
+    {
+        "word": "fruit salad",
+        "score": 50828,
+        "tags": [
+            "n"
+        ]
+    },
+    {
+        "word": "beef stroganoff",
+        "score": 50827,
+        "tags": [
+            "n"
+        ]
+    },
+    {
+        "word": "sloppy joe",
+        "score": 50826,
+        "tags": [
+            "n"
+        ]
+    },
+    {
+        "word": "coffeecake",
+        "score": 50825,
+        "tags": [
+            "n"
+        ]
+    },
+    {
+        "word": "salad",
+        "score": 50824,
+        "tags": [
+            "n"
+        ]
+    },
+    {
+        "word": "nosh",
+        "score": 50823,
+        "tags": [
+            "n"
+        ]
+    },
+    {
+        "word": "oxtail soup",
+        "score": 50822,
+        "tags": [
+            "n"
+        ]
+    },
+    {
+        "word": "pasta salad",
+        "score": 50821,
+        "tags": [
+            "n"
+        ]
+    },
+    {
+        "word": "carvery",
+        "score": 50820,
+        "tags": [
+            "n"
+        ]
+    },
+    {
+        "word": "oyster stew",
+        "score": 50819,
+        "tags": [
+            "n"
+        ]
+    },
+    {
+        "word": "scones",
+        "score": 50818,
+        "tags": [
+            "n"
+        ]
+    },
+    {
+        "word": "veal parmesan",
+        "score": 50817,
+        "tags": [
+            "n"
+        ]
+    },
+    {
+        "word": "vittles",
+        "score": 50816,
+        "tags": [
+            "n"
+        ]
+    },
+    {
+        "word": "plat du jour",
+        "score": 50815,
+        "tags": [
+            "n",
+            "prop"
+        ]
+    },
+    {
+        "word": "undermeal",
+        "score": 50814,
+        "tags": [
+            "n"
+        ]
+    },
+    {
+        "word": "appetizers",
+        "score": 50813,
+        "tags": [
+            "n"
+        ]
+    },
+    {
+        "word": "chicken stew",
+        "score": 50812,
+        "tags": [
+            "n"
+        ]
+    },
+    {
+        "word": "elevenses",
+        "score": 50811,
+        "tags": [
+            "n"
+        ]
+    },
+    {
+        "word": "vegetable soup",
+        "score": 50810,
+        "tags": [
+            "n"
+        ]
+    },
+    {
+        "word": "roast lamb",
+        "score": 50809,
+        "tags": [
+            "n"
+        ]
+    },
+    {
+        "word": "lasagna",
+        "score": 50808,
+        "tags": [
+            "n"
+        ]
+    },
+    {
+        "word": "chicken salad",
+        "score": 50807,
+        "tags": [
+            "n"
+        ]
+    },
+    {
+        "word": "refreshments",
+        "score": 50806,
+        "tags": [
+            "n"
+        ]
+    }
+]

@@ -1,0 +1,367 @@
+[
+    {
+        "word": "shape",
+        "score": 2110,
+        "numSyllables": 1
+    },
+    {
+        "word": "tape",
+        "score": 1996,
+        "numSyllables": 1
+    },
+    {
+        "word": "escape",
+        "score": 1782,
+        "numSyllables": 2
+    },
+    {
+        "word": "landscape",
+        "score": 1675,
+        "numSyllables": 2
+    },
+    {
+        "word": "scrape",
+        "score": 1530,
+        "numSyllables": 1
+    },
+    {
+        "word": "agape",
+        "score": 1500,
+        "numSyllables": 2
+    },
+    {
+        "word": "ape",
+        "score": 1423,
+        "numSyllables": 1
+    },
+    {
+        "word": "rape",
+        "score": 1342,
+        "numSyllables": 1
+    },
+    {
+        "word": "cape",
+        "score": 1172,
+        "numSyllables": 1
+    },
+    {
+        "word": "crepe",
+        "score": 914,
+        "numSyllables": 1
+    },
+    {
+        "word": "gape",
+        "score": 874,
+        "numSyllables": 1
+    },
+    {
+        "word": "drape",
+        "score": 839,
+        "numSyllables": 1
+    },
+    {
+        "word": "scape",
+        "score": 696,
+        "numSyllables": 1
+    },
+    {
+        "word": "chape",
+        "score": 535,
+        "numSyllables": 1
+    },
+    {
+        "word": "crape",
+        "score": 431,
+        "numSyllables": 1
+    },
+    {
+        "word": "red tape",
+        "score": 409,
+        "numSyllables": 2
+    },
+    {
+        "word": "videotape",
+        "score": 361,
+        "numSyllables": 4
+    },
+    {
+        "word": "shipshape",
+        "score": 323,
+        "numSyllables": 2
+    },
+    {
+        "word": "audiotape",
+        "score": 293,
+        "numSyllables": 4
+    },
+    {
+        "word": "swape",
+        "score": 292,
+        "numSyllables": 1
+    },
+    {
+        "word": "netscape",
+        "score": 283,
+        "numSyllables": 2
+    },
+    {
+        "word": "reshape",
+        "score": 257,
+        "numSyllables": 2
+    },
+    {
+        "word": "trape",
+        "score": 236,
+        "numSyllables": 1
+    },
+    {
+        "word": "snape",
+        "score": 221,
+        "numSyllables": 1
+    },
+    {
+        "word": "frape",
+        "score": 213,
+        "numSyllables": 1
+    },
+    {
+        "word": "xeriscape",
+        "score": 208,
+        "numSyllables": 3
+    },
+    {
+        "word": "pape",
+        "score": 207,
+        "numSyllables": 1
+    },
+    {
+        "word": "graip",
+        "score": 164,
+        "numSyllables": 1
+    },
+    {
+        "word": "statutory rape",
+        "score": 139,
+        "numSyllables": 5
+    },
+    {
+        "word": "clape",
+        "score": 129,
+        "numSyllables": 1
+    },
+    {
+        "word": "friction tape",
+        "score": 98,
+        "numSyllables": 3
+    },
+    {
+        "word": "bell shape",
+        "score": 91,
+        "numSyllables": 2
+    },
+    {
+        "word": "funnel shape",
+        "score": 89,
+        "numSyllables": 3
+    },
+    {
+        "word": "fire escape",
+        "score": 82,
+        "numSyllables": 4
+    },
+    {
+        "word": "knape",
+        "score": 82,
+        "numSyllables": 1
+    },
+    {
+        "word": "wedge shape",
+        "score": 68,
+        "numSyllables": 2
+    },
+    {
+        "word": "ticker tape",
+        "score": 67,
+        "numSyllables": 3
+    },
+    {
+        "word": "barbary ape",
+        "score": 65,
+        "numSyllables": 4
+    },
+    {
+        "word": "narrow escape",
+        "score": 61,
+        "numSyllables": 4
+    },
+    {
+        "word": "scotch tape",
+        "score": 60,
+        "numSyllables": 2
+    },
+    {
+        "word": "take shape",
+        "score": 57,
+        "numSyllables": 2
+    },
+    {
+        "word": "cone shape",
+        "score": 54,
+        "numSyllables": 2
+    },
+    {
+        "word": "great ape",
+        "score": 54,
+        "numSyllables": 2
+    },
+    {
+        "word": "magnetic tape",
+        "score": 54,
+        "numSyllables": 4
+    },
+    {
+        "word": "date rape",
+        "score": 53,
+        "numSyllables": 2
+    },
+    {
+        "word": "cassette tape",
+        "score": 50,
+        "numSyllables": 3
+    },
+    {
+        "word": "lape",
+        "score": 47,
+        "numSyllables": 1
+    },
+    {
+        "word": "adhesive tape",
+        "score": 46,
+        "numSyllables": 4
+    },
+    {
+        "word": "slape",
+        "score": 43,
+        "numSyllables": 1
+    },
+    {
+        "word": "taipeh",
+        "score": 42,
+        "numSyllables": 1
+    },
+    {
+        "word": "wild rape",
+        "score": 41,
+        "numSyllables": 2
+    },
+    {
+        "word": "good shape",
+        "score": 40,
+        "numSyllables": 2
+    },
+    {
+        "word": "canton crepe",
+        "score": 37,
+        "numSyllables": 3
+    },
+    {
+        "word": "lesser ape",
+        "score": 37,
+        "numSyllables": 3
+    },
+    {
+        "word": "change shape",
+        "score": 31,
+        "numSyllables": 2
+    },
+    {
+        "word": "passero cape",
+        "score": 30,
+        "numSyllables": 4
+    },
+    {
+        "word": "mag tape",
+        "score": 29,
+        "numSyllables": 2
+    },
+    {
+        "word": "concave shape",
+        "score": 27,
+        "numSyllables": 3
+    },
+    {
+        "word": "curved shape",
+        "score": 27,
+        "numSyllables": 2
+    },
+    {
+        "word": "insulating tape",
+        "score": 27,
+        "numSyllables": 5
+    },
+    {
+        "word": "angular shape",
+        "score": 25,
+        "numSyllables": 4
+    },
+    {
+        "word": "leaf shape",
+        "score": 25,
+        "numSyllables": 2
+    },
+    {
+        "word": "amorphous shape",
+        "score": 23,
+        "numSyllables": 4
+    },
+    {
+        "word": "wave shape",
+        "score": 21,
+        "numSyllables": 2
+    },
+    {
+        "word": "polygonal shape",
+        "score": 20,
+        "numSyllables": 5
+    },
+    {
+        "word": "round shape",
+        "score": 20,
+        "numSyllables": 2
+    },
+    {
+        "word": "digital audiotape",
+        "score": 15,
+        "numSyllables": 7
+    },
+    {
+        "word": "change of shape",
+        "score": 14,
+        "numSyllables": 3
+    },
+    {
+        "word": "convex shape",
+        "score": 12,
+        "numSyllables": 3
+    },
+    {
+        "word": "distorted shape",
+        "score": 10,
+        "numSyllables": 4
+    },
+    {
+        "word": "disk shape",
+        "score": 7,
+        "numSyllables": 2
+    },
+    {
+        "word": "natural shape",
+        "score": 7,
+        "numSyllables": 4
+    },
+    {
+        "word": "poor shape",
+        "score": 3,
+        "numSyllables": 2
+    }
+]
