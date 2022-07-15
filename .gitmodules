@@ -1,0 +1,3 @@
+[submodule "repos/repos/DATA-COLLECTION-DIT"]
+	path = repos/repos/DATA-COLLECTION-DIT
+	url = https://github.com/maskebe/DATA-COLLECTION-DIT.git
